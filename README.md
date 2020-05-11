@@ -2,7 +2,7 @@
 
 ### Shell script that creates Terraform modules structure with files.
 
-.
+```
 ├── example
 │   └── test
 │       └── integration
@@ -18,6 +18,7 @@
             └── test
                 └── integration
                     └── default
+ ```                   
   
 ### How to use
 - edit structure.sh and update the variables on top
