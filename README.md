@@ -23,7 +23,7 @@
 ### How to use
 - edit structure.sh and update the variables on top
 - project, is the name of the project, ie test
-- modules, are the list of modules you want to include, ie s3 db r53 vpc
+- modules, are the list of modules you want to include, ie module1 module2 module3
 - files, the list of files each project should have, ie provider.tf main.tf variables.tf terraform.tfvars
 
 ```
